@@ -1,6 +1,13 @@
 # Boss Machine
 
 ## Project Overview
+A Codecademy project to create a node server using express (full stack path). Project highlights use of middleware and nested routing. Bonus solution included.
+
+All tests passed.
+
+**NOTE** The project was created 'as is' using the downloaded project start project from Codecademy. Some of the dependencies are dpereciated. I did not update the dependencies as it had errors on testing (mocha + chai).
+
+Below is the original readme file.
 
 In this project, you will create an entire API to serve information to a Boss Machine, a unique management application for today's most accomplished (evil) entrepreneurs. You will create routes to manage your 'minions', your brilliant 'million dollar ideas', and to handle all the annoying meetings that keep getting added to your busy schedule.
 
