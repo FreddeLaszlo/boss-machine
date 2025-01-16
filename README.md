@@ -3,7 +3,7 @@ A Codecademy project to create a node server using express (full stack path). Pr
 
 All tests passed.
 
-NOTE The project was created 'as is' using the downloaded project start project from Codecademy. Some of the dependencies are dpereciated. I did not update the dependencies as it had errors on testing (mocha + chai).
+NOTE The project was created 'as is' using the downloaded project start project from Codecademy. Some of the dependencies are dpereciated. I did not update the dependencies as it had errors on testing (mocha + chai). Instead I used ```npm install --legacy-peer-deps``` which solved the dependency issues.
 
 Below is the original readme file.
 
